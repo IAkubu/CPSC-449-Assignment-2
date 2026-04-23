@@ -1,8 +1,14 @@
 # CPSC-449-Assignment-2
 
+### Creating non-admin User
+
 <img width="1046" height="729" alt="Screenshot 2026-04-21 at 13 16 12" src="https://github.com/user-attachments/assets/26d557e6-5229-4f14-8a97-908d72ada46f" />
 
+### Creating admin User
+
 <img width="1046" height="729" alt="Screenshot 2026-04-21 at 13 16 34" src="https://github.com/user-attachments/assets/29c6088d-27e7-418f-b280-6f4bdcdbd261" />
+
+### 
 
 <img width="1046" height="729" alt="Screenshot 2026-04-21 at 13 17 06" src="https://github.com/user-attachments/assets/89ae636d-1721-47e1-adbb-6544382e76c4" />
 
